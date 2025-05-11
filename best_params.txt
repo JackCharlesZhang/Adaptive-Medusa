@@ -1,0 +1,20 @@
+7B:
+alpha=2.8414, 
+beta=4.0974, 
+threshold=-4.1461, 
+decay_lambda=0.9906, 
+gamma=0.9256, 
+entropy_cap=7.5593,
+
+got 2.74
+
+33B:
+
+alpha= 3.7194,
+beta=4.8929,
+threshold=-7.8569, 
+decay_lambda=0.7654,
+gamma=0.7641,
+entropy_cap=5.7309,
+
+gets 2.05
